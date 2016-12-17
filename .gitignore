@@ -1,0 +1,12 @@
+/bookcase/dist
+/bookcase/tmp
+/bookcase/node_modules
+/bookcase/bower_components
+/bookcase/npm-debug.log*
+/bookcase/testem.log
+/bookcase-api/.bundle
+/bookcase-api/db/*.sqlite3
+/bookcase-api/db/*.sqlite3-journal
+/bookcase-api/log/*
+/bookcase-api/tmp/*
+/bookcase-api/.byebug_history
